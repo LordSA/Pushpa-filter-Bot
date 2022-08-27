@@ -7,7 +7,7 @@
 
 [![Stars](https://img.shields.io/github/stars/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=yellow)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=orange)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/repo-size)   
+[![Size](https://img.shields.io/github/repo-size/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot)   
 [![Contributors](https://img.shields.io/github/contributors/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/graphs/contributors)
 

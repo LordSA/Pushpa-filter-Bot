@@ -1,15 +1,15 @@
  </p>
 <h1 align="center">
-  <b> ▌│█║▌║▌║  𝒫𝓊𝓈𝒽𝓅𝒶 𝑅𝒶𝒿 𝐵o𝓉 ║▌║▌║█│▌</b>
+  <b> ▌│█║▌║  𝒫𝓊𝓈𝒽𝓅𝒶 𝑅𝒶𝒿 𝐵o𝓉 ║▌║▌║█│▌</b>
 </h1>
 
 <img src="https://te.legra.ph/file/e5f7ae667c6f561f48007.jpg" alt="Pushpa Raj Bot">
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot)   
+[![Stars](https://img.shields.io/github/stars/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=yellow)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=orange)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/fork)
+[![Size](https://img.shields.io/github/repo-size/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/RoyalDivyansh/Pushpa-filter-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/graphs/contributors)
 
 
 

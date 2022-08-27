@@ -36,8 +36,8 @@
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `Support Chat` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
 ### Optional Variables
@@ -46,13 +46,13 @@
 * `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
 * `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
 * `IMDB` : Imdb, the view of information when making True/False
-* `SINGLE_BUTTON` : choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22
+* `SINGLE_BUTTON` : choose b/w single or double buttons 
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Professor-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoyalDivyansh/Pushpa-filter-Bot)
 
 ## Commands
 ```
@@ -85,21 +85,16 @@ dyno - check dyno status ADMIN Only
 broadcast - to broadcast a message to all Eva Maria users
 ```
 
-## Original Repo
-*  [Eva Maria](https://github.com/EvamariaTG/EvaMaria)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=PiracyOff&message=devs&color=critical)](https://t.me/piracyoff)
 
-## Spacial Thanks To
-
-* [⚡️𝐀𝐚𝐝𝐡𝐢⚡️](https://github.com/Aadhi000)
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
+* [!PIRACY OFF](https://img.shields.io/static/v1?label=PIRACY OFF&message=BOTZ&color=critical)](https://t.me/PIRACYOFF)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
+Licensed under [GNU AGPL 3.0.][(https://github.com/RoyalDivyansh/Pushpa-filter-Bot/blob/main/LICENSE]
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.

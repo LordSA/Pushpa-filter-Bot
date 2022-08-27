@@ -1,9 +1,9 @@
-
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
-</p>
+ </p>
 <h1 align="center">
   <b> ▌│█║▌║▌║  𝒫𝓊𝓈𝒽𝓅𝒶 𝑅𝒶𝒿 𝐵o𝓉 ║▌║▌║█│▌</b>
 </h1>
+
+<img src="https://te.legra.ph/file/e5f7ae667c6f561f48007.jpg" alt="Pushpa Raj Bot">
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/MrMKN/Professor-Bot/fork)

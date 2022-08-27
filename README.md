@@ -5,9 +5,9 @@
 
 <img src="https://te.legra.ph/file/e5f7ae667c6f561f48007.jpg" alt="Pushpa Raj Bot">
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/MrMKN/Professor-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/)   
+[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/fork)
+[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/RoyalDivyansh/Pushpa-filter-Bot)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
 [![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)

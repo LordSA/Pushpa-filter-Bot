@@ -1,1 +1,1 @@
-worker: python3 PushpaRajBot.py
+worker: python3 pushparaj.py

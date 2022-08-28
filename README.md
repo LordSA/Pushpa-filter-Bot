@@ -90,5 +90,5 @@
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/blob/main/LICENSE)
+Licensed under [GNU AGPL 3.0.](https://github.com/RoyalDivyansh/Pushpa-filter-Bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.

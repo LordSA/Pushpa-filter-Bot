@@ -69,7 +69,7 @@
         },
         "SUPPORT_STAFF": {
             "description": "if You are a coder add your id or I'll add mine",
-            "value": "1951205538",
+            "value": "True",
             "required": true
         },
         "AUTH_USERS": {
